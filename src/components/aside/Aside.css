@@ -1,0 +1,15 @@
+.aside{
+    max-width: 30%;
+    border: 1px solid #fd0404;
+    padding: 10px;
+}
+
+aside{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+p{
+    text-align: center;
+}

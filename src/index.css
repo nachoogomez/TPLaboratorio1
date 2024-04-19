@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1a1a1a;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  -webkit-tap-highlight-color: transparent;
+  overflow-x: hidden;
+}
+

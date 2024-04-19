@@ -1,0 +1,21 @@
+.navbar{
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    cursor: pointer;
+
+}
+
+li {
+    list-style: none;
+    }
+    
